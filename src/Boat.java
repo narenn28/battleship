@@ -1,4 +1,3 @@
-//Written by Naren Nandyal, nandy017, ID: 5627987
 
 public class Boat {
     private int length;
