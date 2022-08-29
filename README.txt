@@ -1,7 +1,3 @@
-Naren Nandyal (nandy017)
-
-I worked on this project alone.
-
 Compiling and running my program (this will be through the Game Class):
 	Compiling Game: javac Game.java
 	Running Game: java Game
